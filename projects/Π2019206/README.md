@@ -3,9 +3,9 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
-| 2 | [Άσκηση προγραμματισμού ή βιογραφικό](#2ο-ΠΑΡΑΔΟΤΕΟ) (SW) | 
+| 2 | [Άσκηση προγραμματισμού](#2ο-ΠΑΡΑΔΟΤΕΟ) (SW) | 
 | 3 | [Άσκηση γραμμής εντολών](#3ο-ΠΑΡΑΔΟΤΕΟ) |
-| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
+| 4 | [Άσκηση προγραμματισμού](#4ο-ΠΑΡΑΔΟΤΕΟ) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -34,5 +34,16 @@
 
 
 ### 3ο-ΠΑΡΑΔΟΤΕΟ:
-Αρχικά κατέβασα 2 προγράμματα. 1ο το elinks που είναι ένας terminal web browser και 2ο το rtorrent που είναι ένα torrent downloader. Έπειτα με το elinks μπήκα σε μια ιστοσελίδα με διάφορα torrents (1337x.to) και έκανα search to συγκρότημα των pink floyd. Στη συνέχεια, αφού διάλεξα ένα torrent, πήγα πάνω στο download button και αντέγραψα σε ένα document file το url του torrent(εκεί επειδή το terminal ήταν στο idle δε φαίνεται η διαδικασία και το προσπερνάει πολύ γρήγορα). Μετά έκλεισα το elinks και άνοιξα το rtorrent όπου έκανα paste το url (στην αρχή δε μου το δεχόταν επειδή δεν είχα γράψει το https://), πάτησα enter και ctrl+s και το torrent άρχισε να κατεβαίνει. Τέλος έκλεισα το rtorrent και πήγα (με τη χρήση του terminal) στο directory όπου είχε αποθηκευτεί το αρχείο που μόλις κατέβασα.
-https://asciinema.org/a/2o11qw2L6o6pcpY8eNOTRd3Mg
+Αρχικά κατέβασα 2 προγράμματα. 1ο το elinks που είναι ένας terminal web browser και 2ο το rtorrent που είναι ένα torrent downloader. Έπειτα με το elinks μπήκα σε μια ιστοσελίδα με διάφορα torrents (1337x.to) και έκανα search to συγκρότημα των pink floyd. Στη συνέχεια, αφού διάλεξα ένα torrent, πήγα πάνω στο download button και αντέγραψα σε ένα document file το url του torrent(εκεί επειδή το terminal ήταν στο idle δε φαίνεται η διαδικασία και το προσπερνάει πολύ γρήγορα). Μετά έκλεισα το elinks και άνοιξα το rtorrent όπου έκανα paste το url (στην αρχή δε μου το δεχόταν επειδή δεν είχα γράψει το https://), πάτησα enter και ctrl+s και το torrent άρχισε να κατεβαίνει. Τέλος έκλεισα το rtorrent και πήγα (με τη χρήση του terminal) στο directory όπου είχε αποθηκευτεί το αρχείο που μόλις κατέβασα. Η εργασία βρίσκεται [εδώ](https://asciinema.org/a/2o11qw2L6o6pcpY8eNOTRd3Mg).
+
+
+
+
+
+### 4ο-ΠΑΡΑΔΟΤΕΟ:
+Σε αυτή την άσκηση προγραμματισμού (image processing) έπρεπε ουσιαστικά να επεξεργαστούμε τον κώδικα έτσι ώστε όταν ο χρήστης κάνει hover με το mouse πάνω απο αυτή, να αλλάζουν τα εφέ της εικόνας. Η επεξεργασία των φίλτρων της εικόνας έγινε με τη χρήση της css και τη χρήση των παραδειγμάτων που μας δινόταν στα σχόλια του κώδικα. Το embed θα το κάνω μόλις καταλάβω πως δουλεύει το netlify. (<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="mnlsvt" data-slug-hash="NWrOXEe" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="pineapple mouse hover">
+  <span>See the Pen <a href="https://codepen.io/mnlsvt/pen/NWrOXEe">
+  pineapple mouse hover</a> by Π2019206 (<a href="https://codepen.io/mnlsvt">@mnlsvt</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>)
