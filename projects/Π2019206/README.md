@@ -26,7 +26,7 @@
 
 
 ### 2ο-ΠΑΡΑΔΟΤΕΟ:
-Στο 2ο παραδοτέο (άσκηση προγραμματισμού) επέλεξα να κάνω ένα youtube media player. Έγραψα το προγραμμα σε html και προσπαθούσα να βρω τρόπο να κάνω embed το video που δινόταν απευθείας από την πλατφόρμα του youtube και να προσθέσω αργότερα δικά μου controls πάνω σε αυτό. Τελικά δεν κατάφερα να το κάνω με αυτόν τον τρόπο και κατέληξα να πάρω το video και να το ανεβάσω στο google drive όπου το έκανα shared. Έτσι ο media player παιζει κανονικά το video απλά όχι από το youtube.
+Στο 2ο παραδοτέο (άσκηση προγραμματισμού) επέλεξα να κάνω ένα youtube media player. Έγραψα το προγραμμα σε html και προσπαθούσα να βρω τρόπο να κάνω embed το video που δινόταν απευθείας από την πλατφόρμα του youtube και να προσθέσω αργότερα δικά μου controls πάνω σε αυτό. Τελικά δεν κατάφερα να το κάνω με αυτόν τον τρόπο και κατέληξα να πάρω το video και να το ανεβάσω στο google drive όπου το έκανα shared. Έτσι ο media player παιζει κανονικά το video απλά όχι από το youtube. Η εργασία βρίσκεται [εδώ](https://github.com/Mnlsvt/site/blob/master/_remix/youtube-video-player.md).
 
 
 
@@ -41,9 +41,4 @@
 
 
 ### 4ο-ΠΑΡΑΔΟΤΕΟ:
-Σε αυτή την άσκηση προγραμματισμού (image processing) έπρεπε ουσιαστικά να επεξεργαστούμε τον κώδικα έτσι ώστε όταν ο χρήστης κάνει hover με το mouse πάνω απο αυτή, να αλλάζουν τα εφέ της εικόνας. Η επεξεργασία των φίλτρων της εικόνας έγινε με τη χρήση της css και τη χρήση των παραδειγμάτων που μας δινόταν στα σχόλια του κώδικα. Το embed θα το κάνω μόλις καταλάβω πως δουλεύει το netlify. (<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="mnlsvt" data-slug-hash="NWrOXEe" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="pineapple mouse hover">
-  <span>See the Pen <a href="https://codepen.io/mnlsvt/pen/NWrOXEe">
-  pineapple mouse hover</a> by Π2019206 (<a href="https://codepen.io/mnlsvt">@mnlsvt</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>)
+Σε αυτή την άσκηση προγραμματισμού (image processing) έπρεπε ουσιαστικά να επεξεργαστούμε τον κώδικα έτσι ώστε όταν ο χρήστης κάνει hover με το mouse πάνω απο αυτή, να αλλάζουν τα εφέ της εικόνας. Η επεξεργασία των φίλτρων της εικόνας έγινε με τη χρήση της css και τη χρήση των παραδειγμάτων που μας δινόταν στα σχόλια του κώδικα. Η εργασία βρίσκεται [εδώ](https://github.com/Mnlsvt/site/blob/master/_remix/image-filter.md).
